@@ -1,0 +1,7 @@
+# Build output
+/dist/
+/sf6guard
+/sf6guard.exe
+
+# Local scratch
+*.log
