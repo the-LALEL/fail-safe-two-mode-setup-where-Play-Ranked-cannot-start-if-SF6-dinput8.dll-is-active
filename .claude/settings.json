@@ -3,7 +3,11 @@
     "allow": [
       "mcp__Supabase__list_tables",
       "mcp__github__search_repositories",
-      "Bash(unzip -l *)"
+      "Bash(unzip -l *)",
+      "mcp__github__actions_list",
+      "mcp__github__get_job_logs",
+      "mcp__github__get_latest_release",
+      "mcp__Supabase__get_edge_function"
     ]
   }
 }
