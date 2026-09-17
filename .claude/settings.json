@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Supabase__list_tables",
+      "mcp__github__search_repositories",
+      "Bash(unzip -l *)"
+    ]
+  }
+}
